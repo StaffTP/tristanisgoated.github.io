@@ -45,7 +45,7 @@ const commands = {
 	clowns:
 	{
 		cmd: 'clowns',
-		res: 'Clowns:<br># <span class="red">Clown yourself to me and you will be added here!</span>'
+		res: 'Clowns:<br># <span class="red">Rith - cute lad with a fatty</span>'
 	},
 	aboutme:  
 	{
